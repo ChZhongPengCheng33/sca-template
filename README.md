@@ -1,2 +1,2 @@
 # sca-template
-SpringCloudAlibaba应用模板
+Spring Cloud Alibaba应用模板
